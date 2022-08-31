@@ -1,8 +1,8 @@
-# Project Name : Dhammika Hotel Management System  
+# Dhammika Hotel Management System  
 
-## Group Details
+## 2nd Year 2nd Semester - IT Project
 
-### Member Details :
+## Group Details :
 
 | Name                      | Student ID | Username           |
 |---------------------------|------------|--------------------|
@@ -13,9 +13,10 @@
 | D.R.E.S. Senevirathne	    | IT19136820 | ErangaSenavirathne |
 | R.R.P.W.M.R.V.N. Galagoda | IT19165394 | vinuri-g           |  
 
-## Project Description
+<!-- ## Project Description
 
 Purpose of the app  
+-->
 
 ## Technologies
 
